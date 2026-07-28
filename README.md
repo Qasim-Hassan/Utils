@@ -5,4 +5,4 @@ AI Agent Interoperability Layer
 
 ## Core Features
 
-Support 4 mainstream AI Agents to communicate with each other.
+1. Support 4 mainstream AI Agents to communicate with each other. 
