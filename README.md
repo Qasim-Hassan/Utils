@@ -3,4 +3,6 @@ AI Agent Interoperability Layer
 
 ---
 
-## 
+## Core Features
+
+Support 4 mainstream AI Agents
