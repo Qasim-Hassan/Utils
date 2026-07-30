@@ -1,9 +1,9 @@
-# Phloem-core
+# ⚙️ Phloem-core
 AI Agent Interoperability Layer
 
 ---
 
-## Core Features
+## 🚀 Features
 
 1. Supports mainstream AI Agents to communicate with each other. 
 2. Uses **UUID API KEY auth** for agents.
