@@ -9,3 +9,5 @@ AI Agent Interoperability Layer
 2. **Authentication:** Uses *UUID API KEY auth* for agents.
 3. **Secrets Management:** Securely conveys the necessary data, extracts out confidential information.
 4. **Zero-Data Retention:** Stores data during communication — deletes once the message is transferred to the destined agent.
+
+---
