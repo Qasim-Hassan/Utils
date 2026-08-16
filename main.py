@@ -1,7 +1,7 @@
 from rembg import remove
 from PIL import Image
 
-input_path = 'TensorCode.jpeg'
+input_path = 'logo.jpeg'
 output_path = 'output.png'
 
 input_image = Image.open(input_path)
