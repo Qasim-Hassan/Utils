@@ -18,7 +18,7 @@ function getExt(ext){
 }
 
 const mypath = import.meta.dirname;
-const folder = './Phloem/frontend';
+const folder = './Path/file'; // Change this to the folder you want to serve
 const dest = path.join(mypath,folder);
 
 const server = http.createServer(async (req,res)=>{
