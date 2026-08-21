@@ -1,10 +1,10 @@
-## Mock-Server
+# Mock-Server
 
 Basic **Node JS** program written to serve as local-first replacement for ```npx serve``` and ```live server extensions``` in Code Editors.
 
 This assures no third-party software/package has access to your codebase. 
 
-### Local-setup
+## Local-setup
 
 Clone the repo, and navigate to the mock-server directory.
 
